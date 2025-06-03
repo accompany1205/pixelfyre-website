@@ -51,11 +51,11 @@ export default function ContactPage() {
                   <div className="ml-4">
                     <h3 className="text-lg font-semibold">Email Us</h3>
                     <p className="mt-1 text-muted-foreground">
-                      General Inquiries: info@pixelfyre.com
+                      General Inquiries: info@pixelfyre.org
                       <br />
-                      Sales: sales@pixelfyre.com
+                      Sales: sales@pixelfyre.org
                       <br />
-                      Support: support@pixelfyre.com
+                      Support: support@pixelfyre.org
                     </p>
                   </div>
                 </div>
@@ -67,9 +67,9 @@ export default function ContactPage() {
                   <div className="ml-4">
                     <h3 className="text-lg font-semibold">Call Us</h3>
                     <p className="mt-1 text-muted-foreground">
-                      Main Office: +1 (555) 123-4567
+                      Main Office: +1 (289) 601-2027
                       <br />
-                      Sales Team: +1 (555) 987-6543
+                      Sales Team: +1 (472) 229-2161
                       <br />
                       Support: +1 (555) 456-7890
                     </p>
@@ -80,7 +80,7 @@ export default function ContactPage() {
               <div className="mt-12">
                 <h3 className="text-lg font-semibold">Office Hours</h3>
                 <p className="mt-1 text-muted-foreground">
-                  Monday - Friday: 9:00 AM - 6:00 PM (PST)
+                  Monday - Friday: 9:00 AM - 6:00 PM (EST)
                   <br />
                   Saturday - Sunday: Closed
                 </p>

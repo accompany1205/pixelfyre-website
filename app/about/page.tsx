@@ -29,7 +29,7 @@ export default function AboutPage() {
                 alignment="left"
               />
               <p className="mt-6 text-muted-foreground">
-                Our founders, Alex Chen and Sarah Johnson, recognized that while AI models were growing exponentially in
+                Our founders, Richard Paul and William Jin, recognized that while AI models were growing exponentially in
                 capability, the hardware needed to run these models efficiently wasn't keeping pace. They assembled a
                 team of experts from leading technology companies and research institutions to tackle this challenge.
               </p>
